@@ -1,8 +1,8 @@
-## Simplifiez le développement d'applications Java avec Spring
+## Gestion ticket
 
-Ceci est le dépôt associé au cours
-[_Simplifiez le développement d'applications Java avec Spring_](https://openclassrooms.com/courses/simplifiez-le-developpement-dapplications-java-avec-spring)
-sur [_OpenClassrooms_](https://www.openclassrooms.com).
+Ceci est un petit projet réalisé avec avec le framework Spring
+
+Il s'agit d'une petite application de gestion des tickets d'incidents
 
 
 ### Contenu
